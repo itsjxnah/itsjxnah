@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jo-nrw
+- 👋 Hi, I’m @itsjxnah
 - 👀 I’m interested in Gaming, Mountainbiking and others
 - 🌱 I’m currently learning "life"
 - 💞️ I’m looking to collaborate on RedBull Bikes
