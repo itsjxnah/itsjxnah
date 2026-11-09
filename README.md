@@ -40,8 +40,8 @@ STATUS:   Building my own OS & breaking code 💻
 <div align="center">
 
 ### 📡 SEND A MESSAGE (MULTIPLAYER)
-[![Discord](https://discordapp.com/users/1457391233663242277)
-[![GitHub](https://github.com/itsjxnah)
+[Discord](https://discordapp.com/users/1457391233663242277)
+[GitHub](https://github.com/itsjxnah)
 
 <br>
 
