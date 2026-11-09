@@ -20,9 +20,7 @@
 ```yaml
 === CHARACTER STATS ===
 NAME:     Jonah (@itsjxnah)
-GUILD:    @hackclub 🚩
 SPAWN:    Cologne, Germany 📍 (UTC+01:00)
-STATUS:   Building my own OS & breaking code 💻
 
 === INVENTORY & SKILLS ===
 - 🐍 Python        [████████░░] 80%
