@@ -12,8 +12,7 @@
                     |__/                       
 ```
 
-### 👾 PLAYER 1: JONAH // LVL. 161 👾
-**`[ CLASS: SYSTEM ARCHITECT & HACKER ]`**
+### 👾 PLAYER 1: JONAH👾
 
 ---
 
