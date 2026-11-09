@@ -1,6 +1,53 @@
-idk
+<div align="center">
 
-<!---
-itsjxnah/itsjxnah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```text
+  _   _                _                 _     
+ (_) | |              (_)               | |    
+  _  | |_   ___        _  __  __ _ __   | |__  
+
+ | | | __| / __|      | | \ \/ /| '_ \  | '_ \ 
+ | | | |_  \__ \      | |  >  < | | | | | | | |
+ |_|  \__| |___/      | | /_/\_\|_| |_| |_| |_|
+                     _/ |                      
+                    |__/                       
+```
+
+### 👾 PLAYER 1: JONAH // LVL. 161 👾
+**`[ CLASS: SYSTEM ARCHITECT & HACKER ]`**
+
+---
+
+</div>
+
+```yaml
+=== CHARACTER STATS ===
+NAME:     Jonah (@itsjxnah)
+GUILD:    @hackclub 🚩
+SPAWN:    Cologne, Germany 📍 (UTC+01:00)
+STATUS:   Building my own OS & breaking code 💻
+
+=== INVENTORY & SKILLS ===
+- 🐍 Python        [████████░░] 80%
+- 🖥️ OS Dev        [██████░░░░] 60%
+- 🌐 DNS / Network [███████░░░] 70%
+- ☕ Caffeine      [██████████] 100%
+```
+
+### 🕹️ ACTIVE QUESTS
+* 🛠️ **`own-os`**: Crafting an operating system from scratch.
+* 🧮 **`python-calcualtor`**: Crunching numbers in Python.
+* 🌐 **`hackclub/dns`**: Routing packets across the web.
+
+---
+
+<div align="center">
+
+### 📡 SEND A MESSAGE (MULTIPLAYER)
+[![Discord](https://shields.io)](https://discordapp.com)
+[![GitHub](https://shields.io)](https://github.com/itsjxnah)
+
+<br>
+
+**`>>> INSERT COIN TO COLLABORATE <<<`**
+
+</div>
