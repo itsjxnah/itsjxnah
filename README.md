@@ -28,21 +28,19 @@ STATUS:   Building my own OS & breaking code 💻
 === INVENTORY & SKILLS ===
 - 🐍 Python        [████████░░] 80%
 - 🖥️ OS Dev        [██████░░░░] 60%
-- 🌐 DNS / Network [███████░░░] 70%
 - ☕ Caffeine      [██████████] 100%
 ```
 
 ### 🕹️ ACTIVE QUESTS
 * 🛠️ **`own-os`**: Crafting an operating system from scratch.
 * 🧮 **`python-calcualtor`**: Crunching numbers in Python.
-* 🌐 **`hackclub/dns`**: Routing packets across the web.
 
 ---
 
 <div align="center">
 
 ### 📡 SEND A MESSAGE (MULTIPLAYER)
-[![Discord](https://shields.io)](https://discordapp.com)
+[![Discord](https://shields.io)](https://discordapp.com/users/1457391233663242277)
 [![GitHub](https://shields.io)](https://github.com/itsjxnah)
 
 <br>
