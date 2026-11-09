@@ -41,7 +41,8 @@ STATUS:   Building my own OS & breaking code 💻
 
 ### 📡 SEND A MESSAGE (MULTIPLAYER)
 [Discord](https://discordapp.com/users/1457391233663242277)
-[GitHub](https://github.com/itsjxnah)
+[Instagram](https://discordapp.com/users/1457391233663242277)
+[Mail](mailto:itsjxnah.public@proton.me)
 
 <br>
 
