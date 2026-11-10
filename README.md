@@ -29,7 +29,7 @@ SPAWN:    Cologne, Germany 📍 (UTC+01:00)
 ```
 
 ### 🕹️ ACTIVE QUESTS
-* 🛠️ **`own-os`**: Crafting an operating system from scratch.
+* 📜 **`portfolio`**: Building my portfolio with html, css, javascript
 * 🧮 **`python-calcualtor`**: Crunching numbers in Python.
 
 ---
